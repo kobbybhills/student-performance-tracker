@@ -25,7 +25,7 @@ This web application is a **Student Performance & Curriculum Tracker** designed 
 
 I wrote this software to solve a common administrative problem for students—keeping track of completed, current, and planned coursework alongside credit totals and letter grades. Developing this app allowed me to gain hands-on experience structuring RESTful API endpoints, handling asynchronous HTTP requests with Axios, managing React state, and integrating an SQLite database.
 
-[Software Demo Video](I will put the video demo link here http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/97369709b5be4f589834f7e39c650b2f)
 
 # Web Pages
 
