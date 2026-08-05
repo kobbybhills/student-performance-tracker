@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, my goal with this project was to deepen my knowledge of full-stack web development by building a scalable, data-driven application using modern industry tools. I wanted to practice implementing a decoupled architecture—separating a React-based single-page application frontend from a Node.js and Express RESTful API backend—while managing real-time data persistence with an embedded database.
+As a software engineer, my goal with this project was to deepen my knowledge of full-stack web development by building a scalable, data-driven application using modern industry tools. I wanted to practice implementing a decoupled architecture separating a React-based single-page application frontend from a Node.js and Express RESTful API backend while managing real-time data persistence with an embedded database.
 
 This web application is a **Student Performance & Curriculum Tracker** designed to help students organize, track, and manage their academic course load, credit hours, completion statuses, and letter grades in one centralized interface. 
 
